@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mlsc/static/css/main.667cf72b.css",
+    "main.js": "/mlsc/static/js/main.89dc6845.js",
+    "static/js/453.5fdebebf.chunk.js": "/mlsc/static/js/453.5fdebebf.chunk.js",
+    "static/media/B_event.png": "/mlsc/static/media/B_event.38470946a9a36a2acdf1.png",
+    "static/media/MLSA.png": "/mlsc/static/media/MLSA.2c55d01628ffe3a297ed.png",
+    "static/media/day_2.jpg": "/mlsc/static/media/day_2.225b8edbbe92ea6c58ad.jpg",
+    "static/media/speaker_2.png": "/mlsc/static/media/speaker_2.445e9844d6ce2689d216.png",
+    "static/media/day_3.jpg": "/mlsc/static/media/day_3.808c9daed46c26453c4a.jpg",
+    "static/media/speaker_1.png": "/mlsc/static/media/speaker_1.9e7eb6d8a6a0c6202995.png",
+    "static/media/azure.png": "/mlsc/static/media/azure.dad1ca25d0571f9a4ace.png",
+    "static/media/about2.png": "/mlsc/static/media/about2.edeb4a3a38d2c4c3f8c2.png",
+    "static/media/logo2.png": "/mlsc/static/media/logo2.ed84785be706753f5e27.png",
+    "static/media/about1.png": "/mlsc/static/media/about1.dfa7af47c10132173a89.png",
+    "static/media/mit1.png": "/mlsc/static/media/mit1.ae89822325f76150d555.png",
+    "static/media/mit.jpg": "/mlsc/static/media/mit.addf51ca740a42377c12.jpg",
+    "static/media/github.png": "/mlsc/static/media/github.ba9cb8d57d53e7189c48.png",
+    "static/media/figma.png": "/mlsc/static/media/figma.9adea96ce0fa2e1ff586.png",
+    "static/media/logo.svg": "/mlsc/static/media/logo.1d87adb75dfe2b1eebe58538e492116a.svg",
+    "index.html": "/mlsc/index.html",
+    "main.667cf72b.css.map": "/mlsc/static/css/main.667cf72b.css.map",
+    "main.89dc6845.js.map": "/mlsc/static/js/main.89dc6845.js.map",
+    "453.5fdebebf.chunk.js.map": "/mlsc/static/js/453.5fdebebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667cf72b.css",
+    "static/js/main.89dc6845.js"
+  ]
+}
