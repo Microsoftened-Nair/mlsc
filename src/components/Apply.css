@@ -23,7 +23,7 @@
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-start;
-    color:#223a60 ;
+    color:#84b3ff ;
     height: 100%;
     .p{
         font-family: 'Poppins', sans-serif;
@@ -32,55 +32,10 @@
     }
 }
 
-.application-page{
-    font-family: 'Montserrat',sans-serif;
-    font-size: 5rem;
-    color:#223a60 ;
-    font-weight: 700;
-}
+.application-page{ font-family:'Montserrat',sans-serif; font-size:5rem; font-weight:700; background: var(--gradient-accent); -webkit-background-clip:text; background-clip:text; color:transparent; letter-spacing:1px; }
 
-.apply-line{
-    width: 40%;
-    background-color: #223a60;
-    height: 2px;
-    margin-top:40px;
-}
+.apply-line{ width:40%; height:3px; margin-top:34px; background: var(--gradient-accent); border-radius:3px; box-shadow:0 4px 12px -4px rgba(0,0,0,.4); }
 
-.application-button{
-    background-color: white ;
-    cursor: pointer;
-    border: 2px solid #223a60;
-    width: 90%;
-    padding: 20px 0;
-    margin: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    color: #223a60;
-    font-size: 18px;
-    font-family: 'Montserrat',sans-serif;
-    transition: background-color 0.3s ease-in-out;
-}
-
-.application-button:hover{
-    background-color:#223a60;
-    color: white;
-}
-
-@media (max-width:768px) {
-    .apply-content{
-        margin-top: 10vh;
-        margin-bottom: 10vh;
-        flex-direction: column;
-        width: 100%;
-    }
-    .apply-box-1{
-        width: 80%;
-    }
-    .apply-box-2{
-        width: 80%;
-    }
-    .application-page{
-        font-size: 3rem;
-    }
-    
-}
+.application-button{ background:transparent; cursor:pointer; border:2px solid var(--color-accent); width:90%; padding:20px 0; margin:0 20px; text-align:center; text-decoration:none; color: var(--color-accent); font-size:18px; font-family:'Montserrat',sans-serif; font-weight:600; transition: var(--transition-base); border-radius: var(--radius-lg); }
+.application-button:hover{ background: var(--gradient-accent); color:#fff; box-shadow:0 10px 28px -10px rgba(0,0,0,.45); transform:translateY(-4px);} 
+.application-button:active { transform:translateY(0); }

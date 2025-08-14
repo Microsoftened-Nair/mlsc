@@ -24,7 +24,7 @@ const Apply = () => {
                 <li>We want a diverse team with members from all years and as many streams as possible</li>
                 </ul>
                 </div>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3C9Ir59imQB0CqxzPFmShW86uMe_mSVXH5G--57HyJFv21A/viewform?usp=sf_link" target="_blank" className='application-button'>Apply Now</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3C9Ir59imQB0CqxzPFmShW86uMe_mSVXH5G--57HyJFv21A/viewform?usp=sf_link" target="_blank" rel="noreferrer" className='application-button'>Apply Now</a>
         </div>
       
     </div>
